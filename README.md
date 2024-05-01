@@ -1,7 +1,7 @@
 # Flask UI Template
 
 
-Setup a virtualenv:
+### Setup a virtualenv:
 
 if not available
 ```
@@ -15,11 +15,14 @@ source .env/bin/activate
 pip install -r requirements.txt
 ```
 
-How to run?
+### How to run?
 ```
 python app.py
 ```
 
-Template:
+### Template:
 [Flask UI Template](https://github.com/rajasgs/flask-ui-template)
 
+
+### Screenshot
+![alt text](image.png)
